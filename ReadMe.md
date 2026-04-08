@@ -473,3 +473,4 @@ Make sure:
 - [@facuramirez7](https://github.com/facuramirez7)
 - [@lprhodes](https://github.com/lprhodes)
 - [@KAnggara75](https://github.com/KAnggara75)
+- [@html5cat](https://x.com/html5cat)
